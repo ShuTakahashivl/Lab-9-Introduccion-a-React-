@@ -1,3 +1,4 @@
+##Pude hacer solo el parte 1
 ## Mejoras implementadas
 ### 1. localStorage - Persistencia de datos
 - Las tareas se guardan automáticamente en el navegador
